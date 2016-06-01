@@ -1,0 +1,2 @@
+[18-Oct-2015 04:27:21 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/tekvietnam/public_html/projects/wordpress/beautyonlocation/wp-content/themes/gt3-wp-oyster/index.php on line 1
+[18-Oct-2015 04:38:41 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/tekvietnam/public_html/projects/wordpress/beautyonlocation/wp-content/themes/gt3-wp-oyster/index.php on line 1
